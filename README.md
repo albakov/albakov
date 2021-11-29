@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @albakov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python, go
-- 💞️ I’m looking to collaborate on spacex
-- 📫 How to reach me -> write some issue
+- 👋 Hi there
